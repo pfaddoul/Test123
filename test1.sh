@@ -10,5 +10,4 @@ x = a-b
 >>>>>>> main
 
 
-#soustraction
-#z = a-b
+
