@@ -6,5 +6,4 @@ y = a/b
 x = a-b
 
 
-#soustraction
-#z = a-b
+
