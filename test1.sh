@@ -9,3 +9,7 @@ v = x*y
 
 #addition
 c = a+b
+
+#soustraction
+c = a-b
+
